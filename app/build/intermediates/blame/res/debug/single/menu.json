@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\menu\\coupon_list.xml",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\menu\\coupon_list.xml"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\menu\\beac_prop.xml",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\menu\\beac_prop.xml"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\menu\\clipped_coupons.xml",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\menu\\clipped_coupons.xml"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

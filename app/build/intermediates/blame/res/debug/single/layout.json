@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_version.xml",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\layout\\fragment_version.xml"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_qr.xml",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\layout\\activity_qr.xml"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_beac_prop.xml",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\layout\\activity_beac_prop.xml"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coupondelete.xml",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\layout\\coupondelete.xml"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_coupon_list.xml",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\layout\\activity_coupon_list.xml"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\layout\\clipped_coupons.xml",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\layout\\clipped_coupons.xml"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\layout\\coupon_row.xml",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\layout\\coupon_row.xml"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\layout\\activity_login.xml"
+    }
+]

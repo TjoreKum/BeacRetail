@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.beacretail.CouponList" >
+
+    <item
+        android:id="@+id/beacProp"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/settings"
+        android:title="Beacon Property"/>
+    <item android:id="@+id/coupons"
+		android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/drawableicon"
+        android:title="Clipped Coupons"/>
+
+</menu>

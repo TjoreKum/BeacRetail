@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.beacretail.ClippedCoupons" >
+    <item
+        android:id="@+id/QRActivity"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/qrcodeicon"
+        android:title="QRActivity"/>
+</menu>

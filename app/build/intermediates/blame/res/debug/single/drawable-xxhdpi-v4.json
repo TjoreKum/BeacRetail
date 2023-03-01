@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\shop1.jpg",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\drawable-xxhdpi\\shop1.jpg"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\shop.gif",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\drawable-xxhdpi\\shop.gif"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\list.png",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\drawable-xxhdpi\\list.png"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ent.jpg",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\drawable-xxhdpi\\ent.jpg"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\hnb.jpg",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\drawable-xxhdpi\\hnb.jpg"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\drawable-xxhdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\AndroidDevelopment\\BeacRetail\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\AndroidDevelopment\\BeacRetail\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

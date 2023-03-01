@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:2:1-74:12
+	xmlns:android
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.2.1] C:\AndroidDevelopment\BeacRetail\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\AndroidDevelopment\BeacRetail\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\AndroidDevelopment\BeacRetail\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.1] C:\AndroidDevelopment\BeacRetail\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:12:22-71
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:14:5-89
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:14:30-86
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:15:5-83
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:15:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:16:5-88
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:16:30-85
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:19:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:20:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:21:5-72
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:21:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:22:5-83
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:22:22-64
+android:uses-permission#android.permission.READ_CALL_LOG
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:24:30-77
+application
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:26:5-72:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\AndroidDevelopment\BeacRetail\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\AndroidDevelopment\BeacRetail\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\AndroidDevelopment\BeacRetail\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.1] C:\AndroidDevelopment\BeacRetail\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:30:9-41
+	android:allowBackup
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:28:9-35
+	android:icon
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:29:9-45
+	android:theme
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:31:9-52
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:27:9-32
+activity#com.example.beacretail.MainActivity
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:32:9-41:20
+	android:label
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:33:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:35:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:39:27-74
+service#com.kontakt.sdk.android.ble.service.ProximityService
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:43:9-45:40
+	android:exported
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:44:13-80
+activity#com.example.beacretail.CouponList
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:47:9-49:66
+	android:label
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:49:13-63
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:48:13-39
+activity#com.example.beacretail.BeacProp
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:50:9-52:64
+	android:label
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:52:13-61
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:51:13-37
+activity#com.example.beacretail.ClippedCoupons
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:53:9-55:70
+	android:label
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:55:13-67
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:54:13-43
+activity#com.example.beacretail.codegen.QRActivity
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:56:9-60:54
+	android:label
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:59:13-54
+	android:configChanges
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:58:13-74
+	android:theme
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:60:13-51
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:57:13-47
+meta-data#com.google.android.gms.version
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:65:9-67:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\AndroidDevelopment\BeacRetail\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:66:13-58
+	android:value
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:67:13-66
+activity#com.example.beacretail.LoginActivity
+ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:69:9-71:69
+	android:label
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:71:13-57
+	android:name
+		ADDED from C:\AndroidDevelopment\BeacRetail\app\src\main\AndroidManifest.xml:70:13-42
