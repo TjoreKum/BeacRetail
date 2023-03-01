@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/coupondelete"
+    android:orientation="horizontal"
+    android:layout_gravity="center_horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <!--<ImageView-->
+    <!--android:id="@+id/imgIcon"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:layout_alignEnd="@+id/txtTitle"-->
+    <!--android:gravity="center_vertical"-->
+    <!--android:layout_weight="40" />-->
+
+    <TextView
+        android:id="@+id/txtTitle1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/delete"
+        android:gravity="center_vertical"
+        android:textColor="#000000"
+        android:textSize="18dp"
+        android:layout_weight="40"
+        android:theme="@style/AppBaseTheme" />
+
+    <ImageButton
+        android:id="@+id/delete"
+        android:layout_width="wrap_content"
+        android:layout_alignStart="@+id/txtTitle1"
+        android:layout_gravity="center|center_vertical"
+        android:src="@drawable/trash"
+
+        android:background="@android:color/transparent"
+        android:layout_weight="2">
+
+    </ImageButton>
+
+</TableRow>
+
